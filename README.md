@@ -35,5 +35,6 @@ The first time I encountered the word was when I read [this article](https://www
 I want to build and expand my skills and knowledge in React.js. I would like to build a project that covers fundamentals and requires new skills from me so that I can become a better React.js and frontend developer. I am especially interested in the best practice of React.js structures and the way of using React Hooks through the real projects as my next step to learning React.js since I have learned the basic usage of React Hooks, including newer Hooks such as useContext and useReducer. I expect to experience the world standard web development process at Critical Mass.<br />
 
 ## Coding Challenge
+I did same assignment with two different ways.
 - jQuery: https://codesandbox.io/s/2022-internship-exercise-menu-forked-x1hu9p
 - React: https://codesandbox.io/s/vibrant-archimedes-s2bp2s
